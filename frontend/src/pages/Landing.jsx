@@ -280,7 +280,7 @@ const Landing = () => {
         ref={heroRef}
         className="relative overflow-hidden bg-cover bg-center pt-16"
         style={{
-          backgroundImage: "url('/src/assets/farmer-bg.jpg')",
+          backgroundImage: "url('/assets/farmer-bg.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
